@@ -1,0 +1,11 @@
+ch31/fork-join
+ch31/rendezvous
+ch31/barrier
+ch31/reader-writer
+ch31/reader-writer-nostarve
+ch31/mutex-nostarve
+ch32/vector-deadlock
+ch32/vector-global-order
+ch32/vector-try-wait
+ch32/vector-avoid-hold-and-wait
+ch32/vector-nolock
